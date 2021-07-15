@@ -2,13 +2,13 @@
 
 ## Overview of the analysis
 
-### Purpose
+### Purpose:
 
 - V. Isualize has given us a new assignment. We are to create a summary DataFrame of the ride-sharing data by city type. Then create a multiple-line graph that shows the total weekly fares for each city type. Using the information we created he would like us to explain how the data differs by city type and how those differences can be used by decision-makers at PyBer.
 
 ## Results
 
-### What we found
+### What we Found:
 
 The Summary DataFrame of the ride-sharing data:
 
@@ -30,7 +30,7 @@ Total Fare by City Type (Multi-Line Chart)
 
 ## Summary
 
-### Our recommendations
+### Our recommendations:
 
 - The company needs to make sure that there are adequate supply of drivers in order to fulfill the requests of the passengers in this business. Long wait times and no available drivers lead to customers losing value in this product. I would stuggest further incentivising rurual divers as they have the lowest ratio of drivers to rides. This would be in effort to expand the rural market as they have the largest chance of having large wait times or no drivers available for rides. Thought there is an increased incentive to drive in the urban areas over all other city types there is still the lowest ratio of drivers to rides. It seems that the supply and demand factors have stabilized incentives across city type as the supply of drivers relative to demand for rides is low in rural cities, moderate in suburban cities, and high in urban cities. It seems important to push increased incentive where driver supply is low relative to demand inorder to supply enough drivers for customers.
 
