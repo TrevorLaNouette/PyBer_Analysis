@@ -12,18 +12,19 @@
 
 The Summary DataFrame of the ride-sharing data:
 
-(Insert Ride_share_DF)
+<img width="539" alt="Ride_Share_DF" src="https://user-images.githubusercontent.com/82718969/125863536-11bd1f9a-4b13-4afd-a7fb-38000924cd2c.png">
 
 -The Summary Data Frame show the differences in total rides, total drivers, toal fares, average fare per ride, and average fare per driver among three city types rural, suburban, and urban. Looking at total rides we see that the vast majority rides taken are taken in urban areas, followed by suburban and then rural cities. This trend follows ith total drivers, and total fare categories, where urban is the highest suburban is the next highest and rurual is the lowest. Next looking at average fare per ride we see that the cost per ride taken is the exact opposite of the previous sections trends where rural is the most expensie followed by suburban, then urban. Our final column is average fare per driver. Which again folows the same trend as teh average fare per ride, with rural being the highest then suburban followed by rural with the lowest averave fare per driver.
 
                     Rides to driver ratios: Rural 1.6 to 1 |  Suburban: 1.3 to 1 |  Urban .07 to 1
 
-Further analysis of this information shows that drivers in rural areas have more rides per driver than any other city type. This on top of the fact that they recieve a higher fare per ride leads to an increased incentive to drive for ride share in the rural areas. These trends follow true with suburban type of cities having the middle amount of incentive with middle average fare per ride and driver. The urban cities have the lowest incentive to drive with the lowest average fare per ride and per driver.
+- Further analysis of this information shows that drivers in rural areas have more rides per driver than any other city type. This on top of the fact that they recieve a higher fare per ride leads to an increased incentive to drive for ride share in the rural areas. These trends follow true with suburban type of cities having the middle amount of incentive with middle average fare per ride and driver. The urban cities have the lowest incentive to drive with the lowest average fare per ride and per driver.
 
 Total Fare by City Type (Multi-Line Chart)
-(Insert Total Fare by city Type
 
--The Total Fare by City Type graph shows us a line graph of total fares per day by city over the span of approximately four months. This graph shows us that the total amount of money earned per day by city type is realtively constant. There are no single day where the total fare for any city category changes its rank. they fare per city type also stays relatively consistnent but there is a small about of growth in each city type's total fare's over time.
+<img width="737" alt="Total_Fare_by_City_Type" src="https://user-images.githubusercontent.com/82718969/125863572-33f73b06-464b-4b5b-b0c3-2b10ab4dd8a1.png">
+
+- The Total Fare by City Type graph shows us a line graph of total fares per day by city over the span of approximately four months. This graph shows us that the total amount of money earned per day by city type is realtively constant. There are no single day where the total fare for any city category changes its rank. they fare per city type also stays relatively consistnent but there is a small about of growth in each city type's total fare's over time.
 
 
 
