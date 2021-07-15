@@ -4,7 +4,7 @@
 
 ### Purpose:
 
-- V. Isualize gave us a new assignment. We are to create a summary DataFrame of the ride-sharing data by city type. Then create a multiple-line graph that shows the total weekly fares for each city type. Using the information we created he would like us to explain how the data differs by city type and how those differences can be used by decision-makers at PyBer.
+- V. Isualize gave us a new assignment. We were to create a summary DataFrame of the ride-sharing data by city type. We were then asked to create a multiple-line graph that showed the total weekly fares for each city type. Using the information we created asked us to explain how the data differs by city type and how those differences can be used by decision-makers at PyBer.
 
 ## Results
 
